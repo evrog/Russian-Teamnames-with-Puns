@@ -7,11 +7,10 @@ Not intended for readers under 18.
 The file with the corpus is here:
 The file format is .csv with tab ('\t') as the delimiter. The file includes:
 
-------------------------------
-| ID | Teamname | Annotation |
-------------------------------
-| 0 | Товарищи Ленины | Товарищ Ленин |
-------------------------------
+ ID | Teamname        | Annotation 
+----|-----------------|---------
+ 0  | Товарищи Ленины | Товарищ Ленин 
+
 
 The column "Teamname" contains names of teams manually collected from bar quiz pages in the social network Vkontake; 46,007 in total. The annotation is a list of target phrases separated with ',', that annotators suggested as a correct phrase, source of the team name.
 
@@ -24,10 +23,8 @@ The column "Teamname" contains names of teams manually collected from bar quiz p
 Адрес файла с корпусом:
 Формат файла .csv, разделитель - табуляция ('\t'). Файл включает:
 
-------------------------------
-| ID | Teamname | Annotation |
-------------------------------
-| 0 | Товарищи Ленины | Товарищ Ленин |
-------------------------------
+ ID | Teamname        | Annotation 
+----|-----------------|---------
+ 0  | Товарищи Ленины | Товарищ Ленин
 
 Колонка "Teamname" содержит названия команд, вручную собранные со страниц барных квизов в социальной сети Вконтакте; всего 46,007 названий. Аннотация содержит список фраз-источников, которые аннотаторы посчитали как исходные, источник игры слов, каламбура.
