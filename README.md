@@ -4,7 +4,7 @@ This repository contains a corpus of names of Russian teams that play online and
 
 Not intended for readers under 18.
 
-The file with the corpus is here:
+The file with the corpus is here: https://github.com/evrog/Russian-Teamnames-with-Puns/blob/main/Russian_teamnames.csv
 The file format is .csv with tab ('\t') as the delimiter. The file includes:
 
  ID | Teamname        | Annotation 
@@ -20,7 +20,7 @@ The column "Teamname" contains names of teams manually collected from bar quiz p
 
 ДЛЯ ЛИЦ СТАРШЕ 18.
 
-Адрес файла с корпусом:
+Адрес файла с корпусом: https://github.com/evrog/Russian-Teamnames-with-Puns/blob/main/Russian_teamnames.csv
 Формат файла .csv, разделитель - табуляция ('\t'). Файл включает:
 
  ID | Teamname        | Annotation 
